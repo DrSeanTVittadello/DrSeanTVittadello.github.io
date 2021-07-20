@@ -3,8 +3,8 @@ title: "Shear history effects in associative thickener solutions"
 collection: publications
 permalink: /publication/Vittadello1998
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-# date: 1998
-# venue: 'Macromolecules'
+date: 1998/01/01
+venue: 'Macromolecules'
 paperurl: 'http://DrSeanTVittadello.github.io/files/Vittadello1998.pdf'
 citation: 'Vittadello, S. T. and Biggs, S. Shear history effects in associative thickener solutions. Macromolecules, 1998, 31, 7691-7697.'
 ---
