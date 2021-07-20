@@ -19,6 +19,11 @@ General areas of interest include:
 4. Pure mathematics.
 5. Applied mathematics.
 
+- w
+-  2
+-  e
+
+
 Specific biologically-related interests include:
 1. Cell migration, cell proliferation, and more generally the cell cycle, particularly in relation to solid cancers.
 2. Developmental patterning processes, such as Turing patterns and positional information.
