@@ -1,5 +1,5 @@
 ---
-title: "Co-universal ${C}^{&ast}$-algebras associated to generalised graphs"
+title: "Co-universal ${C}^{\*}$-algebras associated to generalised graphs"
 collection: publications
 permalink: /publication/Brownlowe2013
 date: 2013-01-01
