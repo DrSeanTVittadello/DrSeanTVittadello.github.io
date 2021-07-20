@@ -13,28 +13,23 @@ My name is Sean Vittadello, and I am currently a Postdoctoral Research Fellow in
 Research interests
 ====
 General areas of interest include:
-1. Systems biology.
-2. Algebraic biology.
-3. Mathematical biology.
-4. Pure mathematics.
-5. Applied mathematics.
-
-- w
--  2
--  e
-
+- Systems biology.
+- Algebraic biology.
+- Mathematical biology.
+- Pure mathematics.
+- Applied mathematics.
 
 Specific biologically-related interests include:
-1. Cell migration, cell proliferation, and more generally the cell cycle, particularly in relation to solid cancers.
-2. Developmental patterning processes, such as Turing patterns and positional information.
-3. Comparison of models for biological systems.
+- Cell migration, cell proliferation, and more generally the cell cycle, particularly in relation to solid cancers.
+- Developmental patterning processes, such as Turing patterns and positional information.
+- Comparison of models for biological systems.
 
 Mathematical areas employed include:
-1. Ordinary, partial, and delay differential equations.
-2. Algebraic topology, particularly simplicial complexes and homology.
-3. Group theory.
-4. Complex analysis.
-5. Functional analysis.
+- Ordinary, partial, and delay differential equations.
+- Algebraic topology, particularly simplicial complexes and homology.
+- Group theory.
+- Complex analysis.
+- Functional analysis.
 
 
 
