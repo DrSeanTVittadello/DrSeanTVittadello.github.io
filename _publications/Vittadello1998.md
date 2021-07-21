@@ -7,4 +7,4 @@ venue: '<em>Macromolecules</em>'
 # paperurl: 'http://DrSeanTVittadello.github.io/files/Vittadello1998.pdf'
 citation: 'Vittadello, S. T. and Biggs, S. Shear history effects in associative thickener solutions. <em>Macromolecules</em>, 1998, <strong>31</strong>, 7691-7697.'
 ---
-[Download paper here](http://DrSeanTVittadello.github.io/files/Vittadello1998.pdf) or Journal link <a href="url">https://pubs.acs.org/doi/10.1021/ma9714023</a>
+[Download paper here](http://DrSeanTVittadello.github.io/files/Vittadello1998.pdf) or [from the journal here](https://pubs.acs.org/doi/10.1021/ma9714023)
