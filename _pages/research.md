@@ -1,14 +1,9 @@
 ---
-permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+title: "Research"
+permalink: /research/
 ---
 
-My name is Sean Vittadello, and I am currently a Postdoctoral Research Fellow in Theoretical Systems Biology at The University of Melbourne, Australia. I employ mathematics to improve understanding of biological systems, taking a rigorous and robust approach from the viewpoint of pure mathematics. I enjoy using mathematics from both analytical and algebraic areas to help solve problems, also creating new mathematics along the way.
+I employ mathematics to improve understanding of biological systems, taking a rigorous and robust approach from the viewpoint of pure mathematics. I enjoy using mathematics from both analytical and algebraic areas to help solve problems, also creating new mathematics along the way.
 
 Research interests
 ====
