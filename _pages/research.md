@@ -3,8 +3,6 @@ title: "Research"
 permalink: /research/
 ---
 
-Research interests
-
 General areas of interest include:
 - Systems biology
 - Algebraic biology
@@ -24,5 +22,6 @@ Mathematical areas employed include:
 - Group theory, including group actions on simplicial complexes
 - Complex analysis
 - Functional analysis
+- Combinatorics
 
 
