@@ -3,10 +3,8 @@ title: "Research"
 permalink: /research/
 ---
 
-I employ mathematics to improve understanding of biological systems, taking a rigorous and robust approach from the viewpoint of pure mathematics. I enjoy using mathematics from both analytical and algebraic areas to help solve problems, also creating new mathematics along the way.
-
 Research interests
-====
+
 General areas of interest include:
 - Systems biology
 - Algebraic biology
