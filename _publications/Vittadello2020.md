@@ -9,4 +9,4 @@ citation: 'Vittadello, S. T., McCue, S. W., Gunasingh, G., Haass, N. K., and Sim
 ---
 [Download paper here](http://DrSeanTVittadello.github.io/files/Vittadello2020.pdf) or [from the journal here](https://www.sciencedirect.com/science/article/pii/S0006349520301119)
 
-"BJcover.jpg"
+![My cover](/images/BJcover.jpg)
