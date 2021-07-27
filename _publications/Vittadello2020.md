@@ -10,5 +10,5 @@ citation: 'Vittadello, S. T., McCue, S. W., Gunasingh, G., Haass, N. K., and Sim
 Our cover image:
 
 <img src="/images/BJcover.jpg" width="200">
-
+---
 [Download paper here](http://DrSeanTVittadello.github.io/files/Vittadello2020.pdf) or [from the journal here](https://www.sciencedirect.com/science/article/pii/S0006349520301119)
