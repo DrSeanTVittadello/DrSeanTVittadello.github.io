@@ -9,7 +9,7 @@ citation: 'Vittadello, S. T., McCue, S. W., Gunasingh, G., Haass, N. K., and Sim
 ---
 <figure>
   <img alt="Cover image" src="/images/BJcover.jpg" style="width:20%">
-  <span>
+  <span> </span>
   <figcaption>Our Biophysical Journal cover image (Mar 24, 2020, Volume 118 Issue 6)</figcaption>
 </figure>
 
