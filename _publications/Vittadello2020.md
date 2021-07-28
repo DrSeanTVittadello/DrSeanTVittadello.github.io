@@ -8,7 +8,7 @@ venue: '<em>Biophysical Journal</em>'
 citation: 'Vittadello, S. T., McCue, S. W., Gunasingh, G., Haass, N. K., and Simpson, M. J. Examining go-or-grow using fluorescent cell-cycle indicators and cell-cycle-inhibiting drugs. <em>Biophysical Journal</em>, 2020, <strong>118</strong>, 1243-1247.'
 ---
 <figure>
-  <img alt="Cover image" src="/images/BJcover.jpg" style="width:20%">
+  <img alt="Cover image" src="/images/BJcover.jpg" style="width:20%"><br>
   <figcaption>Our cover</figcaption>
 </figure>
 
