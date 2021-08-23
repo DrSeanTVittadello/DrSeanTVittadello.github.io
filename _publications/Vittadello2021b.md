@@ -5,6 +5,6 @@ permalink: /publication/Vittadello2021b
 date: 2021-01-01
 venue: '<em>arXiv preprint</em>'
 # paperurl: 'http://DrSeanTVittadello.github.io/files/Vittadello2021b.pdf'
-citation: 'Vittadello, S. T. and Stumpf, M. P. H. Model comparison via simplicial complexes and persistent homology. <em>arXiv:2012.13039v2</em>, 2021.'
+citation: 'Vittadello, S. T. and Stumpf, M. P. H. Model comparison via simplicial complexes and persistent homology. <em>arXiv:2012.13039v3</em>, 2021.'
 ---
 [Download paper here](http://DrSeanTVittadello.github.io/files/Vittadello2021b.pdf)
