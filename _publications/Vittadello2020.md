@@ -9,7 +9,7 @@ citation: 'Vittadello, S. T., McCue, S. W., Gunasingh, G., Haass, N. K., and Sim
 ---
 Our cover image:
 <figure>
-  <img alt="Cover image" src="/images/BJcover.jpg" style="width:20%">
+  <img alt="Cover image" src="/images/BJcover.jpg" style="width:20%" padding-below:10px>
 </figure>
 
 
