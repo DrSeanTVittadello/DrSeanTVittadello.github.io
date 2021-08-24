@@ -12,6 +12,5 @@ Our cover image:
   <img alt="Cover image" src="/images/BJcover.jpg" style="width:20%">
 </figure>
 
-<br>
+<br/>
 [Download paper here](http://DrSeanTVittadello.github.io/files/Vittadello2020.pdf) or [from the journal here](https://www.sciencedirect.com/science/article/pii/S0006349520301119)
-<br>
