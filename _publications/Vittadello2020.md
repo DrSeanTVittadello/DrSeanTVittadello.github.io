@@ -9,8 +9,7 @@ citation: 'Vittadello, S. T., McCue, S. W., Gunasingh, G., Haass, N. K., and Sim
 ---
 Our cover image:
 <figure>
-  <img alt="Cover image" src="/images/BJcover.jpg" style="width:20%">
+  <img alt="Cover image" src="/images/BJcover.jpg" style="width:10%">
 </figure>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 [Download paper here](http://DrSeanTVittadello.github.io/files/Vittadello2020.pdf) or [from the journal here](https://www.sciencedirect.com/science/article/pii/S0006349520301119)
