@@ -14,4 +14,4 @@ In my research I apply mathematics to improve understanding of complex biologica
 
 I hold a Ph.D. in pure mathematics from [The University of Newcastle](https://www.newcastle.edu.au/), Australia, and a Ph.D. in mathematical biology from [Queensland University of Technology](https://www.qut.edu.au/), Australia.
 
-Initially I worked solely in pure mathematics, in the area of $C^{\\ast}$-algebras, and my interests later broadened to include the application of mathematics to understanding complex biological systems. My work therefore appears in both pure and applied mathematics journals.
+Initially I worked solely in pure mathematics, in the area of $C^{\\ast}$-algebras, and my interests later broadened to include the application of mathematics to understanding complex biological systems. My work therefore appears in both applied and pure mathematics journals.
