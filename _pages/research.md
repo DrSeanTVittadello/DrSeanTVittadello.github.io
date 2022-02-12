@@ -3,7 +3,7 @@ title: "Research"
 permalink: /research/
 ---
 
-I study biological systems using both analytical and algebraic techniques from mathematics. General areas of interest include:
+I study biological systems using both algebraic and analytical methods from mathematics. General areas of interest include:
 - Systems biology
 - Algebraic biology
 - Mathematical biology
@@ -11,14 +11,14 @@ I study biological systems using both analytical and algebraic techniques from m
 - Applied mathematics
 
 Specific biologically-related interests include:
-- Developmental patterning processes, such as Turing patterns and positional information
-- Comparison of models for biological systems
+- Developmental patterning processes, particularly Turing patterns and positional information
+- Comparison of mathematical models for biological systems
 - Design principles of biological systems
 - Cell migration, cell proliferation, and more generally the cell cycle, particularly in relation to cancer cells
 - Heterogeneity of cancer-cell populations
 - The interaction of cell behaviour, including migration, proliferation, and differentiation, with environments that have complex 3-D geometries
 
-Mathematical areas employed include:
+Mathematical areas applied so far include:
 - Ordinary, partial, and delay differential equations
 - Algebraic topology
 - Group theory
