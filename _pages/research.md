@@ -20,5 +20,5 @@ Mathematical areas of interest include:
 - Complex analysis
 - Functional analysis
 - Topology
-- - Differential geometry/topology
+- Differential geometry/topology
 - Ordinary, partial, and delay differential equations
