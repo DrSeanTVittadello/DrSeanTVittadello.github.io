@@ -3,28 +3,22 @@ title: "Research"
 permalink: /research/
 ---
 
-I study biological systems using both algebraic and analytical methods from mathematics. General areas of interest include:
-- Systems biology
-- Algebraic biology
-- Mathematical biology
-- Pure mathematics
-- Applied mathematics
+I am interested in complex biological systems, particularly at the level at which life emerges in a living organism. I use both algebraic and analytical techniques from mathematics to develop general mathematical frameworks for studying biological systems.
 
-Specific biologically-related interests include:
-- Developmental patterning processes, particularly Turing patterns and positional information
-- Comparison of mathematical models for biological systems
-- Design principles of biological systems
-- Cell migration, cell proliferation, and more generally the cell cycle, particularly in relation to cancer cells
-- Heterogeneity of cancer-cell populations
-- The interaction of cell behaviour, including migration, proliferation, and differentiation, with environments that have complex 3-D geometries
+Biological and mathematical interests include:
+- Frameworks for the comparison of mathemetical models of biological systems.
+- Automating the search for design principles for synthetic biological systems (for example, developmental patterning processes such as Turing patterns and positional information).
+- Unifying biological knowledge of complex biological systems.
+- Formulating a mathematical definition of (weak) emergence.
+- Formulating a mathematical definition of the emergent phenomenon of life.
+- The interaction of cell behaviour, including migration, proliferation, and differentiation, with environments that have complex 3-D geometries.
 
-Mathematical areas applied so far include:
-- Ordinary, partial, and delay differential equations
-- Algebraic topology
+Mathematical areas of interest include:
+- Combinatorics (hypergraphs)
 - Group theory
+- Algebraic topology (simplicial complexes, persistent homology)
 - Complex analysis
 - Functional analysis
-- Combinatorics
 - Topology
-
-
+- - Differential geometry/topology
+- Ordinary, partial, and delay differential equations
