@@ -2,9 +2,9 @@
 title: "Bayesian and algebraic strategies to design in synthetic biology"
 collection: publications
 permalink: /publication/Araujo2022
-date: 2022-02-12
+date: 2022-05-01
 venue: '<em>Proceedings of the IEEE</em>'
 # paperurl: 'http://DrSeanTVittadello.github.io/files/Araujo2022.pdf'
-citation: 'Araujo, R. P., Vittadello, S. T., and Stumpf, M. P. H. Bayesian and algebraic strategies to design in synthetic biology. <em>doi: 10.1109/JPROC.2021.3129527</em>, 2022.'
+citation: 'Araujo, R. P., Vittadello, S. T., and Stumpf, M. P. H. Bayesian and algebraic strategies to design in synthetic biology. <em>Proceedings of the IEEE</em>, 2022, <strong>110</strong>, 675--687.'
 ---
-[Download paper here](http://DrSeanTVittadello.github.io/files/Araujo2022.pdf)
+[Download paper here](http://DrSeanTVittadello.github.io/files/Araujo2022.pdf) or [from the journal here](https://ieeexplore.ieee.org/document/9642253)
