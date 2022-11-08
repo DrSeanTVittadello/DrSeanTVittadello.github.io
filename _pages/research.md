@@ -18,7 +18,7 @@ Mathematical areas of interest include:
 - Group theory
 - Algebraic topology (simplicial complexes, persistent homology)
 - Complex analysis
-- Functional analysis (C*-algebras)
+- Functional analysis ($C^{\\ast}$-algebras)
 - Topology
 - Differential geometry/topology
 - Ordinary, partial, and delay differential equations
