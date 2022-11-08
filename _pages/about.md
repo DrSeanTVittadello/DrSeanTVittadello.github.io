@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Fellow in [Theoretical Systems Biology]([https://www.theosysbio.com/](https://www.theosysbio.com/people/sean-vittadello)) within [Melbourne Integrative Genomics](https://sites.research.unimelb.edu.au/integrative-genomics) at [The University of Melbourne](https://www.unimelb.edu.au/), Australia.
+I am a Postdoctoral Research Fellow in [Theoretical Systems Biology]([https://www.theosysbio.com/](https://www.theosysbio.com/people/sean-vittadello)) within [Melbourne Integrative Genomics](https://sites.research.unimelb.edu.au/integrative-genomics) at [The University of Melbourne](https://www.unimelb.edu.au/), Australia.
 
 In my research I develop and apply mathematics to improve understanding of complex biological systems, taking a rigorous and robust approach from the perspective of pure mathematics. I enjoy using a broad range of mathematics in my research of biological systems, also creating new mathematics along the way.
 
